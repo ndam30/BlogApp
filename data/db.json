@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "work at night",
+      "body": "hurry up guys its time to have fun",
+      "author": "Lambo",
+      "date": "23/04/19"
+    },
+    {
+      "id": 2,
+      "title": "dreamers awake",
+      "body": "lets go and see the zoombies",
+      "author": "Lami",
+      "date": "23/04/17"
+    },
+    {
+      "title": "avengers",
+      "author": "jane k",
+      "body": "hello yoou",
+      "date": "2022-07-04T23:04:58.407Z undefined",
+      "id": 3
+    }
+  ]
+}

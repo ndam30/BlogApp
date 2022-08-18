@@ -1,0 +1,104 @@
+<!-- // props -->
+
+<!-- below is data of the blog -->
+
+<!-- // [
+// {
+//     id:1,
+//     title:'work at night',
+//     body:'hurry up guys its time to have fun',
+//     author:'Lambo',
+//     date:'23/04/19'
+
+// },
+
+// {
+//     id:2,
+//     title:'dreamers awake',
+//     body:'lets go and see the zoombies',
+//     author:'Lami',
+//     date:'23/04/17'
+
+// },
+
+// ] -->
+
+
+
+<!-- below are functions -->
+
+<!-- // const handleclick = () => {
+    //     alert('yoooo!!!!! you got me');
+    // }
+
+    // const handleAgain = (name, event) => {
+    //     console.log(`yoooo!!!!! you got me ${name} `, event.target);
+    // }
+
+    // let nom = 'tuna';
+    // const changeName = () =>{
+    //     nom = 'mike';
+    //     alert(nom)
+    // }
+
+    // changing the name in the webpage itself
+    // const [nom, setName] = useState('tuna');
+
+    // const changeName =() =>{
+    //     setName('troy')
+    // } -->
+
+
+<!-- the code below was on the home.js file concerning the blog -->
+
+<!-- {/* <h1>OUR HOME PAGE</h1> */}
+            
+            {/* <BlogList blogs ={blogs}/>
+            <BlogList blogs ={blogs.filter((blog) => blog.author =='Lambo')}/> */}
+            {/* {blogs && <BlogList blogs ={blogs} handleDelete = {handleDelete}/>} */}
+            {
+
+                /* <p>{nom}</p>
+                <button onClick={handleclick}> click here</button>
+                <button onClick={ (e) => {
+                    handleAgain('jane',e);
+                }}>click again</button>
+                <button onClick={changeName}>change the name</button> */
+                
+                 } -->
+<!-- 
+                 {
+
+                    /* <p>{nom}</p>
+                    <button onClick={handleclick}> click here</button>
+                    <button onClick={ (e) => {
+                        handleAgain('jane',e);
+                    }}>click again</button>
+                    <button onClick={changeName}>change the name</button> */
+                    
+                     } -->
+
+
+    <!-- these are variables from app.js -->
+ <!-- //  const title = 'Welcome'
+//  const content ='you are going to be hearing more about reat on this page'
+//  const fruits =['pear','mango','stawberry']
+//  const fru = fruits.join('-')
+//  const con = content.split('') -->
+
+
+<!-- from app.s in the return function -->
+<!-- // first atempt
+/* <h1>{title}</h1>
+<h2>{content}</h2>
+
+<p>{'hello everyone'}</p>
+<p>{[1,2,3,3,4]}</p>
+<p>{['jane', 'kurt','maifi']}</p>
+<p>{fru}</p>
+<p>{con}</p> */ -->
+
+<!-- // const handleDelete = (id) => {
+    //     const newBlog = blogs.filter((blog) => blog.id !== id)
+    //     setBlog(newBlog);
+    // } -->
